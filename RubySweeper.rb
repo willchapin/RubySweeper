@@ -5,7 +5,6 @@ require_relative 'user_defined_constants'
 
 include RubySweeper
 
-
 game = Game.new
-game.start
+game.run
 
