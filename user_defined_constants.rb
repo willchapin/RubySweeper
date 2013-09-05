@@ -1,7 +1,7 @@
 module RubySweeper  
 
   $difficulty = 20
-  BOARD_SIZE = 25
+  BOARD_SIZE = 26
 
   def set_difficulty
     puts "how hard would you like the game to be? (on a scale of 0 to 100)"
